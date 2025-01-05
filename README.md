@@ -1,6 +1,6 @@
 # CRUD Laravel Sederhana
 
-UAS Rekayasa Web Semester 3
+Project UAS Rekayasa Web Semester 3 dengan tema data pemesanan hotel.
 
 ## Cara Install
 
